@@ -1,7 +1,6 @@
 # Change these first
 owner: AXIOS-click # Your GitHub organization or username, where this repository lives
-repo: axios-status-systems # The name of this repository
-
+repo: axios-status-systems # The name of this repositoy
 sites:
   - name: Axios Click
     url: https://axios.cli
