@@ -5,12 +5,12 @@ sites:
   - name: Axios Click
     url: https://axios.clic
     assignees:
-      - Bryan-Herrera-DEV
+      - AXIOS-click
     
   - name: Axios SMS
     url: https://mensajeagratis.com
     assignees:
-      - Bryan-Herrera-DEV
+      - AXIOS-click
       
 status-website:
   baseUrl: /axios-status-systems
