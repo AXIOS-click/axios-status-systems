@@ -3,7 +3,7 @@ owner: AXIOS-click # Your GitHub organization or username, where this repository
 repo: axios-status-systems # The name of this repositoy
 sites:
   - name: Axios Click
-    url: https://axios.cli
+    url: https://axios.clic
     assignees:
       - Bryan-Herrera-DEV
     
