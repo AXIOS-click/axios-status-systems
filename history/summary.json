@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/axios.clic.ico",
     "slug": "axios-click",
     "status": "down",
-    "uptime": "49.23%",
-    "uptimeDay": "49.23%",
-    "uptimeWeek": "49.23%",
-    "uptimeMonth": "49.23%",
-    "uptimeYear": "49.23%",
+    "uptime": "49.08%",
+    "uptimeDay": "49.08%",
+    "uptimeWeek": "49.08%",
+    "uptimeMonth": "49.08%",
+    "uptimeYear": "49.08%",
     "time": 266,
     "timeDay": 266,
     "timeWeek": 266,
     "timeMonth": 266,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2022-12-03": 643
+      "2022-12-03": 647
     }
   },
   {
@@ -25,18 +25,38 @@
     "icon": "https://icons.duckduckgo.com/ip3/mensajeagratis.co.ico",
     "slug": "axios-sms",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.68%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 225,
     "timeDay": 225,
     "timeWeek": 225,
     "timeMonth": 225,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2022-12-03": 0
+      "2022-12-03": 4
+    }
+  },
+  {
+    "name": "Axios SMS_",
+    "url": "https://goggggggggg.com",
+    "icon": "https://icons.duckduckgo.com/ip3/goggggggggg.com.ico",
+    "slug": "axios-sms",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 225,
+    "timeDay": 225,
+    "timeWeek": 225,
+    "timeMonth": 225,
+    "timeYear": 225,
+    "dailyMinutesDown": {
+      "2022-12-03": 4
     }
   }
 ]
