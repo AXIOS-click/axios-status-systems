@@ -16,7 +16,6 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: AXIOS Live Status Page
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is apage for status live
   navbar:
     - title: Axios Status Live Service
