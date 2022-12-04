@@ -3,19 +3,15 @@ owner: AXIOS-click # Your GitHub organization or username, where this repository
 repo: axios-status-systems # The name of this repositoy
 sites:
   - name: Axios Click
-    url: https://axios.clic
+    url: https://axios.click
     assignees:
       - Bryan-Herrera-DEV
     
   - name: Axios SMS
-    url: https://mensajeagratis.co
+    url: https://mensajeagratis.coM
     assignees:
       - Bryan-Herrera-DEV
-      
-  - name: Axios SMS_
-    url: https://goggggggggg.c
-    assignees:
-      - Bryan-Herrera-DEV
+   
       
 status-website:
   baseUrl: /axios-status-systems
