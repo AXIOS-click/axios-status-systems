@@ -4,13 +4,18 @@ repo: axios-status-systems # The name of this repositoy
 sites:
   - name: Axios Click
     url: https://axios.clic
+    assignees:
+      - Bryan-Herrera-DEV
     
   - name: Axios SMS
     url: https://mensajeagratis.co
-    
+    assignees:
+      - Bryan-Herrera-DEV
+      
   - name: Axios SMS_
     url: https://goggggggggg.c
-    
+    assignees:
+      - Bryan-Herrera-DEV
       
 status-website:
   baseUrl: /axios-status-systems
