@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/axios.clic.ico",
     "slug": "axios-click",
     "status": "down",
-    "uptime": "48.82%",
-    "uptimeDay": "48.82%",
-    "uptimeWeek": "48.82%",
-    "uptimeMonth": "48.82%",
-    "uptimeYear": "48.82%",
+    "uptime": "48.71%",
+    "uptimeDay": "48.71%",
+    "uptimeWeek": "48.71%",
+    "uptimeMonth": "48.71%",
+    "uptimeYear": "48.71%",
     "time": 266,
     "timeDay": 266,
     "timeWeek": 266,
     "timeMonth": 266,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2022-12-03": 653
+      "2022-12-04": 1,
+      "2022-12-03": 656
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mensajeagratis.co.ico",
     "slug": "axios-sms",
     "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.16%",
+    "uptime": "98.93%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "98.93%",
     "time": 225,
     "timeDay": 225,
     "timeWeek": 225,
     "timeMonth": 225,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2022-12-03": 11
+      "2022-12-04": 1,
+      "2022-12-03": 13
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/goggggggggg.c.ico",
     "slug": "axios-sms",
     "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.16%",
+    "uptime": "98.93%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "98.93%",
     "time": 225,
     "timeDay": 225,
     "timeWeek": 225,
     "timeMonth": 225,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2022-12-03": 11
+      "2022-12-04": 1,
+      "2022-12-03": 13
     }
   }
 ]
