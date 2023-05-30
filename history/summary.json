@@ -4,9 +4,9 @@
     "url": "https://axios.click",
     "icon": "https://icons.duckduckgo.com/ip3/axios.click.ico",
     "slug": "axios-click",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.42%",
@@ -16,6 +16,7 @@
     "timeMonth": 289,
     "timeYear": 255,
     "dailyMinutesDown": {
+      "2023-05-30": 0,
       "2023-01-17": 921,
       "2023-01-16": 558
     }
@@ -26,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mensajeagratis.com.ico",
     "slug": "axios-sms",
     "status": "up",
-    "uptime": "97.86%",
+    "uptime": "97.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.86%",
+    "uptimeYear": "97.87%",
     "time": 204,
     "timeDay": 221,
     "timeWeek": 200,
