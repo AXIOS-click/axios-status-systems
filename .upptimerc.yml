@@ -3,16 +3,10 @@ owner: AXIOS-click # Your GitHub organization or username, where this repository
 repo: axios-status-systems # The name of this repositoy
 sites:
   - name: Axios Click
-    url: https://axios.click
+    url: https://axicl.store
     assignees:
       - Bryan-Herrera-DEV
-    
-  - name: Axios SMS
-    url: https://mensajeagratis.coM
-    assignees:
-      - Bryan-Herrera-DEV
-   
-      
+
 status-website:
   baseUrl: /axios-status-systems
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
