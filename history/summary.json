@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/axicl.store.ico",
     "slug": "axios-click",
     "status": "down",
-    "uptime": "36.98%",
+    "uptime": "36.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "11.42%",
-    "time": 387,
+    "uptimeYear": "11.15%",
+    "time": 388,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 495,
+    "timeYear": 497,
     "dailyMinutesDown": {
-      "2024-08-03": 57,
+      "2024-08-04": 62,
+      "2024-08-03": 1440,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
@@ -345,8 +346,7 @@
       "2023-08-17": 1440,
       "2023-08-16": 1440,
       "2023-08-15": 143,
-      "2023-08-11": 66,
-      "2023-08-05": 33
+      "2023-08-11": 66
     }
   }
 ]
